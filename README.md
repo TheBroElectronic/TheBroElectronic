@@ -6,4 +6,4 @@ Hardware & Software Developer
 🛠️ C# / .NET · Python · Java · C++
 🖥️ Desktop · ⚙️ Embedded Systems · 🌐 Backend
 
-🚀 Me gusta llevar los proyectos desde la idea y el circuito hasta un sistema funcional completo.
+🚀 Me gusta llevar los proyectos desde la idea hasta un sistema funcional completo.
