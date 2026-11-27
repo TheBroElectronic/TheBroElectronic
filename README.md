@@ -1,7 +1,9 @@
 # Luciano Brugnoni alias TheBro
 Hardware & Software Developer
 
-🔌 Diseño y desarrollo de hardware + firmware, y desarrollo del software necesario para controlarlo e integrarlo.
+🔌 Diseño y desarrollo de hardware + firmware, además del software necesario para controlarlo e integrarlo.
+
+Principalmente Diseño y Programación de Sistemas Electrónicos Embebidos 
 
 🛠️ C# / .NET · Python · Java · C++
 🖥️ Desktop · ⚙️ Embedded Systems · 🌐 Backend
