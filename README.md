@@ -3,7 +3,7 @@ Hardware & Software Developer
 
 🔌 Diseño y desarrollo de hardware + firmware, además del software necesario para controlarlo e integrarlo.
 
-Principalmente Diseño y Programación de Sistemas Electrónicos Embebidos 
+Principalmente me dedico al diseño y programación de Sistemas Electrónicos Embebidos 
 
 🛠️ C# / .NET · Python · Java · C++
 🖥️ Desktop · ⚙️ Embedded Systems · 🌐 Backend
